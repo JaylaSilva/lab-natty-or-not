@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Projeto: Lumina – O Refúgio Digital 🌙
+📒 Descrição
+O Lumina é um conceito de marca para um aplicativo de meditação e mindfulness focado na Geração Z. O objetivo foi criar uma identidade visual que fuja dos clichês de "natureza verde" e aposte em uma estética Dreamcore/Vaporwave, unindo tranquilidade com um visual extremamente moderno e "instagramável".
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+ChatGPT (GPT-4o): Para o copywriting da marca, roteiros de meditação e estruturação do projeto.
 
-> Woooow! Look at this 👀
+Midjourney: Para a criação dos assets visuais e a identidade "aesthetic" das interfaces.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Leonardo AI: Para refinamento de texturas e elementos 3D.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+CapCut (Desktop): Para a montagem de vídeos curtos com filtros granulados e lo-fi.
 
-### Objetivos
+🧐 Processo de Criação
+O processo começou com a definição de uma paleta de cores baseada em tons de roxo pastel, azul ciano e o "pêssego digital".
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Conceito: Usei o ChatGPT para definir o tom de voz da marca — algo acolhedor, mas com gírias leves e diretas.
 
-### Template
+Visual: No Midjourney, utilizei prompts focados em "UI/UX glassmorphism", "surrealism" e "lo-fi photography" para gerar as imagens de fundo.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Refino: As imagens foram passadas pelo Leonardo AI para garantir que a iluminação parecesse natural (o desafio do "natty").
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Finalização: Estruturei este README para apresentar o projeto como se fosse um portfólio real no GitHub.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🚀 Resultados
+O resultado é um ecossistema visual que inclui:
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Mockups de App: Telas com efeito de vidro fosco e tipografia minimalista.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Social Media: Templates de posts para o Instagram que parecem fotos analógicas, mas foram 100% gerados por IA.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Playlist Lo-fi: Uma curadoria visual (vídeo de 15s) que serve de fundo para as sessões de respiração.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+O maior desafio de criar algo 'natty' (natural) com IA é evitar a perfeição excessiva. Para que o projeto parecesse real e orgânico, precisei adicionar "ruído", granulações e imperfeições propositais nas imagens. Criar conteúdo que não "grite" IA exige um olhar humano apurado para o detalhe e para a curadoria.
